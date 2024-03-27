@@ -6,21 +6,28 @@ import BannerContent from "./components/BannerContent";
 import RegistrationForm from "./components/RegistrationForm";
 import Blog from "./components/Blog";
 import Carousel from "./components/Carousel";
+import FAQs from "./components/FAQs";
+import Footer from "./components/Footer";
+import ContactUs from "./components/ContactUs";
 
 function App() {
   return (
     <div>
       <Navbar />
       <BannerContent />
-      <div className="flex flex-col flex-wrap gap-20">
-        <RegistrationForm />
-
-        <Carousel />
-      </div>
+      <RegistrationForm />
+      <br></br>
+      <br></br>
       <hr></hr>
       <MissionVisionGoal />
-      <Blog />
+      <br></br>
+      <br></br>
+      <hr></hr>
       <PrimaryMissions />
+      <Blog />
+      <FAQs />
+      <ContactUs />
+      <Footer />
     </div>
   );
 }

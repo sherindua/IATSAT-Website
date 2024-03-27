@@ -2,9 +2,9 @@ import React from "react";
 
 function Blog() {
   return (
-    <div>
+    <div className="sm:ml-10">
       <hr></hr>
-      <div class="relative bg-gray-50 px-6 pt-16 pb-20 lg:px-8 lg:pt-24 lg:pb-28">
+      <div class="relative bg-blue-800 mb-20 px-6 pt-16 pb-20 lg:px-8 lg:pt-24 lg:pb-28">
         <div class="absolute inset-0">
           <div class="h-1/3 bg-white sm:h-2/3"></div>
         </div>
@@ -91,7 +91,7 @@ function Blog() {
                     </p>
                     <p class="mt-3 text-base text-gray-500">
                       University Development-(200 Acresland). Corporate offices
-                      & logistics centre-500 MNC offices
+                      & logistics centre-500 MNC offices.
                     </p>
                   </a>
                 </div>
