@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/IATSAT-Website/static/css/main.74738e78.css",
+    "main.js": "/IATSAT-Website/static/js/main.8d2fdf28.js",
+    "static/media/Banner_Carousel3.png": "/IATSAT-Website/static/media/Banner_Carousel3.64a36164c686a0b707f2.png",
+    "static/media/Banner_Carousel2.png": "/IATSAT-Website/static/media/Banner_Carousel2.f653b9d6bcdf982b4bfa.png",
+    "static/media/Banner_Carousel1.png": "/IATSAT-Website/static/media/Banner_Carousel1.8284a2618a45d5fe8c0e.png",
+    "static/media/Logo.png": "/IATSAT-Website/static/media/Logo.d93869007259dfed8029.png",
+    "static/media/our-mission.png": "/IATSAT-Website/static/media/our-mission.02eac814f622674b4b2f.png",
+    "static/media/our-goal.png": "/IATSAT-Website/static/media/our-goal.0de6b1963ab37033e740.png",
+    "index.html": "/IATSAT-Website/index.html",
+    "main.74738e78.css.map": "/IATSAT-Website/static/css/main.74738e78.css.map",
+    "main.8d2fdf28.js.map": "/IATSAT-Website/static/js/main.8d2fdf28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74738e78.css",
+    "static/js/main.8d2fdf28.js"
+  ]
+}
